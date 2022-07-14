@@ -9,8 +9,8 @@
 </div>
 </section>
 <br>
-<br>
-<br>
+
+
 
 
 </template>
@@ -42,7 +42,7 @@ export default{
     grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
     grid-gap:5px;
     margin:20px;
-    height:500px;
+    height:700px;
     align-items: center;
 }
 

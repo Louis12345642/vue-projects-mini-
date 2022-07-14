@@ -39,7 +39,7 @@ props:['day']
     background-color: rgb(54, 51, 51);
     color: #fff;
     text-align: center;
-    height:40px;
+    height:50px;
     display:flex;
     align-content:center;
     justify-content: center;
